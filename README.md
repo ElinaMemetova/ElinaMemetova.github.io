@@ -15,6 +15,6 @@ More info about the subject [here](https://01.kood.tech/git/root/public/src/bran
 
 Audit questions [here](https://01.kood.tech/git/root/public/src/branch/master/subjects/graphql/audit)
 
-The page is being hosted at [github-pages](https://ElinaMemetova.github.io/graphql).
+The page is being hosted at [github-pages](https://ElinaMemetova.github.io/).
 
 You can test the code yourself by using "Live Server" extention on VScode
